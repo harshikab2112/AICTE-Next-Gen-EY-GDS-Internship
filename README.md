@@ -1,4 +1,5 @@
 # AICTE-Next-Gen-EY-GDS-Internship
+## Zomato Clone built using the MERN stack
 
 ## 📌 Project Overview
 This project is developed as part of the **AICTE Next-Gen EY GDS Internship**. It is a **Zomato Clone** built using the **MERN stack**, providing users with a platform to browse restaurants, view food items, add items to cart, and place orders.
