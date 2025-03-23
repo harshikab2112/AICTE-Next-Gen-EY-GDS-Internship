@@ -54,7 +54,6 @@ npm start
 
 ## 👩‍💻 Author
 **Harshika Bansal**  
-Full Stack Web Developer | AICTE Next-Gen EY GDS Intern
 
 ## 📜 License
 This project is licensed under the **MIT License** – feel free to modify and distribute it. See the `LICENSE` file for more details.
