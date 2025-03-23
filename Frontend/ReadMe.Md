@@ -14,13 +14,33 @@ This is the **frontend** part of a **Zomato Clone** built using the **MERN stack
 ```
 frontend/
 │── public/
-│── src/
-│   ├── components/      # Reusable components like Navbar, Footer
-│   ├── pages/           # Page components (Home, Restaurants, Login, etc.)
-│   ├── App.js           # Main application file
-│   ├── index.js         # Entry point
-│── package.json         # Project dependencies
-│── README.md            # Project documentation
+|── src/
+│   |── components/
+│      ├── Navbar.js
+│      ├── Footer.js
+│
+│   |── pages/
+│      ├── Home.js
+│      ├── Restaurants.js
+│      ├── RestaurantDetails.js
+│      ├── Cart.js
+│      ├── Login.js
+│      ├── Register.js
+│
+│   |── pages/vendor/
+│      ├── VendorDashboard.js
+│      ├── ManageMenu.js
+│      ├── VendorOrders.js
+│      ├── VendorLogin.js
+│      ├── VendorRegister.js
+│
+│── App.js
+│── index.js
+│── App.css
+│── index.css
+│── package.json
+│── .gitignore
+
 ```
 
 ## 🚀 Installation & Setup
