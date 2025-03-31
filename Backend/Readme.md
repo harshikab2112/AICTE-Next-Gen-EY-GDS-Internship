@@ -33,6 +33,7 @@ backend/
 │
 │── middleware/        # Authentication & Middleware
 │   ├── authMiddleware.js
+|   ├──  adminMiddleware.js
 │
 │── config/            # Database Connection
 │   ├── db.js
