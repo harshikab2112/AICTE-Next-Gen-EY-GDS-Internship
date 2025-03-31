@@ -25,6 +25,7 @@ backend/
 │   ├── Order.js
 │
 │── routes/            # API Routes
+│   ├── adminRoutes.js
 │   ├── authRoutes.js
 │   ├── vendorRoutes.js
 │   ├── restaurantRoutes.js
