@@ -66,4 +66,4 @@ npm start
 **Harshika Bansal**
 
 ## 📜 License
-This project is licensed under the **MIT License** – feel free to modify and distribute it. See the `LICENSE` file for more details.
+This project is licensed under the **MIT License** – feel free to modify and distribute it.
