@@ -9,9 +9,9 @@ The project is divided into two main sub-repositories:
 - **Backend**: Developed using **Node.js & Express.js**, managing API endpoints, database interactions, and authentication.
 
 ## Links:
-Frontend [Link](https://ey-frontend-hb.vercel.app/)
-Admin-Panel [Link](https://ey-admin-panel-hb.vercel.app/)
-Backend [Link](https://aicte-next-gen-ey-gds-internship.onrender.com)
+- Frontend [Link](https://ey-frontend-hb.vercel.app/)
+- Admin-Panel [Link](https://ey-admin-panel-hb.vercel.app/)
+- Backend [Link](https://aicte-next-gen-ey-gds-internship.onrender.com)
 
 ## 🛠️ Tech Stack
 ### Frontend:
