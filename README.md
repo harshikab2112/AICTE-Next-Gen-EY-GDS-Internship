@@ -4,8 +4,10 @@
 ## 📌 Project Overview
 This project is developed as part of the **AICTE Next-Gen EY GDS Internship**. It is a **Zomato Clone** built using the **MERN stack**, providing users with a platform to browse restaurants, view food items, add items to cart, and place orders.
 
-##Links:
+## Links:
+Frontend [Link](https://ey-frontend-hb.vercel.app/)
 Admin-Panel [Link](https://ey-admin-panel-hb.vercel.app/)
+Backend [Link](https://aicte-next-gen-ey-gds-internship.onrender.com)
 
 The project is divided into two main sub-repositories:
 - **Frontend**: Developed using **React.js**, handling the user interface and client-side logic.
