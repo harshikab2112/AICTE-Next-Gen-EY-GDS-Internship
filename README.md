@@ -8,7 +8,7 @@ The project is divided into two main sub-repositories:
 - **Frontend**: Developed using **React.js**, handling the user interface and client-side logic.
 - **Backend**: Developed using **Node.js & Express.js**, managing API endpoints, database interactions, and authentication.
 
-## Links
+## Links:
 - Frontend [Link](https://ey-frontend-hb.vercel.app/)
 - Admin-Panel [Link](https://ey-admin-panel-hb.vercel.app/)
 - Backend [Link](https://aicte-next-gen-ey-gds-internship.onrender.com)
